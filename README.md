@@ -25,8 +25,8 @@ GraspNet is designed to facilitate the generation of reliable grasp poses for ro
 To install the necessary modules, please follow these steps:
 
 ```bash
-git clone https://github.com/H-Freax/Graspnet_pytorch1.13.1version.git
-cd Graspnet_pytorch1.13.1version
+git clone https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1.git
+cd GraspNet_Pointnet2_PyTorch1.13.1
 ```
 
 Additionally, you need to install the `pointnet2` and `knn` modules:
@@ -110,7 +110,7 @@ Please cite our paper in your publications if it helps your research:
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/H-Freax/Graspnet_pytorch1.13.1version}},
+  howpublished = {\url{https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1}},
 }
 ```
 
