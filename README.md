@@ -104,14 +104,14 @@ To use this upgraded version of GraspNet and Pointnet2_PyTorch, simply replace t
 Please cite our paper in your publications if it helps your research:
 
 ```
-@software{GraspNet_PyTorch_2024,
-  author = {Yaoyao Qian},
-  title = {GraspNet PyTorch v1.13.1},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/H-Freax/GraspNet_Pointnet2_PyTorch1.13.1}},
-}
+@misc{qian2024thinkgrasp,
+        title={ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter},
+        author={Yaoyao Qian and Xupeng Zhu and Ondrej Biza and Shuo Jiang and Linfeng Zhao and Haojie Huang and Yu Qi and Robert Platt},
+        year={2024},
+        eprint={2407.11298},
+        archivePrefix={arXiv},
+        primaryClass={cs.RO}
+    }
 ```
 
 ## References
