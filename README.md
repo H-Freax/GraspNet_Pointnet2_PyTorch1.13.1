@@ -1,5 +1,23 @@
 # GraspNet and Pointnet2 PyTorch Upgrade (v1.13.1)
 
+# News
+[New version released! Check it out here](https://github.com/H-Freax/GraspNet-PointNet2-Pytorch-General-Upgrade)
+
+
+We previously released the GraspNet and Pointnet2_PyTorch upgrade for PyTorch v1.13.1, which consolidated scattered fixes into a stable baseline.
+
+Now, we are releasing a new update:
+
+   - Full support for the latest GPU generation (NVIDIA 5090)
+   
+   - Improved compatibility with recent PyTorch and CUDA versions
+   
+   - Further bug fixes and stability improvements
+
+If you were using the older v1.13.1 release, we strongly recommend switching to this updated version for better performance and reliability.
+
+## Introduction
+
 Our main contribution is upgrading GraspNet and Pointnet2_PyTorch to the latest PyTorch version (v1.13.1). Currently, there isn't a comprehensive implementation available, and most of the work involves patching various bugs. This version consolidates all the necessary fixes and improvements, providing a stable and reliable implementation. You can directly use this upgraded version to replace the original GraspNet and Pointnet2_PyTorch implementations.
 
 ## Environment Requirements
